@@ -1,0 +1,9 @@
+C:\Users\Washington\source\repos\NetCoreApi\SmsService\bin\Debug\netcoreapp3.1\SmsService.deps.json
+C:\Users\Washington\source\repos\NetCoreApi\SmsService\bin\Debug\netcoreapp3.1\SmsService.dll
+C:\Users\Washington\source\repos\NetCoreApi\SmsService\obj\Debug\netcoreapp3.1\SmsService.csprojAssemblyReference.cache
+C:\Users\Washington\source\repos\NetCoreApi\SmsService\obj\Debug\netcoreapp3.1\SmsService.AssemblyInfoInputs.cache
+C:\Users\Washington\source\repos\NetCoreApi\SmsService\obj\Debug\netcoreapp3.1\SmsService.AssemblyInfo.cs
+C:\Users\Washington\source\repos\NetCoreApi\SmsService\bin\Debug\netcoreapp3.1\SmsService.pdb
+C:\Users\Washington\source\repos\NetCoreApi\SmsService\obj\Debug\netcoreapp3.1\SmsService.csproj.CoreCompileInputs.cache
+C:\Users\Washington\source\repos\NetCoreApi\SmsService\obj\Debug\netcoreapp3.1\SmsService.dll
+C:\Users\Washington\source\repos\NetCoreApi\SmsService\obj\Debug\netcoreapp3.1\SmsService.pdb

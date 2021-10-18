@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDodzRQdlMVCkw46TNpVKXpnnTnJ9JBYKsexG/BZ/cP4/tqmmWgzOtqI+5j0zL/pawT1rWXo+ZZ/kB63u6yseA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Washington\\source\\repos\\NetCoreApi\\OtpService\\OtpService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Washington\\.nuget\\packages\\otp.net\\1.2.2\\otp.net.1.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

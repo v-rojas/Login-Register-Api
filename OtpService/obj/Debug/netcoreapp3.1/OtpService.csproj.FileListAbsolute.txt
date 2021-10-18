@@ -1,0 +1,5 @@
+C:\Users\Washington\source\repos\NetCoreApi\OtpService\bin\Debug\netcoreapp3.1\OtpService.deps.json
+C:\Users\Washington\source\repos\NetCoreApi\OtpService\bin\Debug\netcoreapp3.1\OtpService.dll
+C:\Users\Washington\source\repos\NetCoreApi\OtpService\obj\Debug\netcoreapp3.1\OtpService.csprojAssemblyReference.cache
+C:\Users\Washington\source\repos\NetCoreApi\OtpService\obj\Debug\netcoreapp3.1\OtpService.AssemblyInfoInputs.cache
+C:\Users\Washington\source\repos\NetCoreApi\OtpService\obj\Debug\netcoreapp3.1\OtpService.AssemblyInfo.cs
